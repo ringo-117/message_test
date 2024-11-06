@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", "Helvetica Neue", HelveticaNeue, YuGothic, "Yu Gothic Medium", "Yu Gothic", Verdana, Meiryo, sans-serif;
+  font-feature-settings: 'palt' 1;
+  letter-spacing: 0.05em;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+/* ここからCSSを追加していく */
