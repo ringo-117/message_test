@@ -11,3 +11,7 @@ body {
 }
 
 /* ここからCSSを追加していく */
+.p {
+  font-size: 40px;
+  color: #ef6739;
+}
